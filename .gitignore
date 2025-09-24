@@ -1,0 +1,29 @@
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jac temporary files
+*.jacbin
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jac temporary files
+*.jacbin
+*.log
+
+# OS files
+.DS_Store
+/bin/bash: line 1: q: command not found
+
