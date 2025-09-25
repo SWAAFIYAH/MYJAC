@@ -1,4 +1,4 @@
-import random;nano .gitignore
+import random;
 
 node turn {
     has correct_number : int = random.randint(1, 10);
